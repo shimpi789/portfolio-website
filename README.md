@@ -1,9 +1,8 @@
 # Portfolio Website
 
 A personal portfolio website built to showcase my projects, skills, and experience as a Computer Science Engineering student.
-
 ## 🔗 Live Demo
-[[https://portfolio-website-0yui.onrender.com](https://portfolio-website-kappa-virid-36.vercel.app/)]
+[portfolio-website-kappa-virid-36.vercel.app](https://portfolio-website-kappa-virid-36.vercel.app/)
 
 ## 🛠 Tech Stack
 - React
